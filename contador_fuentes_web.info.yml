@@ -1,0 +1,5 @@
+name: Contador Fuentes Web
+description: 'Agrega el campo Contador de fuentes web a las Vistas'
+package: AUTORES
+type: module
+core: 8.x

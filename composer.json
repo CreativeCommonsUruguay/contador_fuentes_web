@@ -1,0 +1,25 @@
+{
+    "name": "drupal/contador_fuentes_web",
+    "description": "Crea bloques conteniendo las noticias recientes del Blog, bloques para efemérides con fecha del día, entre otros",
+    "type": "drupal-module",
+    "homepage": "https://github.com/CreativeCommonsUruguay/contador_fuentes_web",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Rodrigo Barbano",
+            "email": "rbarbano@vera.com.uy",
+            "role": "Maintainer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "support": {
+       "issues": "https://github.com/CreativeCommonsUruguay/contador_fuentes_web/issues",
+       "source": "https://github.com/CreativeCommonsUruguay/contador_fuentes_web"
+     },
+     "repositories": {
+         "contador_fuentes_web": {
+             "type": "vcs",
+             "url": "https://github.com/CreativeCommonsUruguay/contador_fuentes_web"
+         }
+       }
+}
