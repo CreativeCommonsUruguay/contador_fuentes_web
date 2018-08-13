@@ -1,7 +1,7 @@
 {
     "name": "drupal/contador_fuentes_web",
     "description": "Crea bloques conteniendo las noticias recientes del Blog, bloques para efemérides con fecha del día, entre otros",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "homepage": "https://github.com/CreativeCommonsUruguay/contador_fuentes_web",
     "license": "GPL",
     "authors": [
